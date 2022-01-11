@@ -1,9 +1,9 @@
 <!--
 title:   SvelteKit+Prismaで作成したアプリをVercelにデプロイするとエンドポイントが404になる件への対応
-tags:    Svelte,SvelteKit,prisma,Vercel
+tags:    Svelte,SvelteKit,Vercel,prisma
+id:      7faea0dad145c6b92b9f
 private: false
 -->
-
 ## やりたかったこと
 
 タイトル通りですが、[SvelteKit](<(https://kit.svelte.dev/)>)と[Prisma](https://www.prisma.io/)で構成したアプリを Vercel にデプロイして動かしてみたところ、ページから API への通信が 404 エラーで失敗していました。
